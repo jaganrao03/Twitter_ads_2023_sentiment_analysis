@@ -21,16 +21,8 @@ Introduction
 This project focuses on sentiment analysis using Natural Language Processing (NLP) techniques and machine learning algorithms to classify tweets into positive, negative, or neutral sentiment categories. We explore various feature extraction methods and compare the performance of different machine learning models to develop an accurate and automatic classifier for real-time sentiment analysis of tweets.
 Requirements
 
-    Python 3.7+
-    Numpy
-    Pandas
-    Scikit-learn
-    NLTK
-    Gensim
-    TensorFlow
-    Keras
-    Matplotlib
-    Seaborn
+    Python 3.9
+    pip -r install requirements.txt
 
 Dataset
 
